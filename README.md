@@ -1,6 +1,6 @@
 <h1>Image Classification and Processing Using Deep Learning</h1>
 
-<p>This project demonstrates the use of deep learning techniques for image analysis. It focuses on image classification and processing tasks as part of the 2024 course assignment. The project involves loading image data, performing preprocessing steps, and applying a deep learning model to classify or analyze the images.</p>
+<p>This project demonstrates the use of deep learning techniques for image analysis. It focuses on image classification and processing. The project involves loading image data, performing preprocessing steps, and applying a deep learning model to classify or analyze the images.</p>
 
 <h2>Features</h2>
 
